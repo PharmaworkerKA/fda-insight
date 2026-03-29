@@ -1,0 +1,37 @@
+{
+  "FDA承認プロセス": [
+    {"title": "【2026年最新】FDA承認プロセス完全ガイド — NDA・BLA・ANDAの違いと申請手順", "keyword": "FDA 承認プロセス NDA BLA", "score": 95},
+    {"title": "FDA Priority Review・Breakthrough Therapyとは？迅速審査制度を徹底解説", "keyword": "FDA Priority Review Breakthrough Therapy", "score": 92},
+    {"title": "FDA 510(k)申請の実務ポイント — 医療機器の市販前届出を解説", "keyword": "FDA 510k 申請", "score": 88}
+  ],
+  "FDAガイダンス文書": [
+    {"title": "FDAガイダンス文書の読み方・活用法 — Draft vs Final Guidanceの違い", "keyword": "FDA ガイダンス文書 読み方", "score": 90},
+    {"title": "FDA ICHガイドラインとの関係 — ICH E6(R3) GCPの最新動向", "keyword": "FDA ICH ガイドライン", "score": 87}
+  ],
+  "Warning Letter分析": [
+    {"title": "【最新分析】FDA Warning Letter頻出違反トップ10 — GMP・データインテグリティ", "keyword": "FDA Warning Letter 違反 GMP", "score": 94},
+    {"title": "FDA Warning Letterから学ぶデータインテグリティ対策", "keyword": "FDA データインテグリティ Warning Letter", "score": 91},
+    {"title": "FDA Form 483とWarning Letterの違い — 査察対応の実務ポイント", "keyword": "FDA Form 483 Warning Letter 違い", "score": 86}
+  ],
+  "PMDA vs FDA比較": [
+    {"title": "PMDA vs FDA 承認審査プロセス徹底比較【2026年最新】", "keyword": "PMDA FDA 比較 承認審査", "score": 96},
+    {"title": "日米欧の承認申請要件の違い — FDA・PMDA・EMAを比較", "keyword": "FDA PMDA EMA 違い", "score": 89}
+  ],
+  "FDA最新ニュース": [
+    {"title": "FDA 2026年度の新薬承認状況まとめ — 注目の承認品目を解説", "keyword": "FDA 新薬承認 2026", "score": 93},
+    {"title": "FDA CDER・CBER組織改編の影響 — 日本企業が知るべきポイント", "keyword": "FDA CDER CBER 組織", "score": 85}
+  ],
+  "eCTD・電子申請": [
+    {"title": "eCTD 4.0とは？従来版との違いと移行スケジュールを解説", "keyword": "eCTD 4.0 移行", "score": 93},
+    {"title": "eCTD Module構成の完全ガイド — Module 1〜5の書き方と注意点", "keyword": "eCTD Module 構成", "score": 90},
+    {"title": "FDA電子申請（ESG）の実務手順 — ゲートウェイ設定からサブミッションまで", "keyword": "FDA 電子申請 ESG", "score": 87}
+  ],
+  "バイオ医薬品規制": [
+    {"title": "FDAバイオシミラー承認の仕組み — 351(k)申請を徹底解説", "keyword": "FDA バイオシミラー 351k", "score": 91},
+    {"title": "FDA再生医療・遺伝子治療の規制フレームワーク最新動向", "keyword": "FDA 再生医療 遺伝子治療 規制", "score": 88}
+  ],
+  "海外トレンド翻訳": [
+    {"title": "【翻訳】RAPS Regulatory Focus注目記事まとめ — グローバル規制トレンド", "keyword": "RAPS Regulatory Focus 翻訳", "score": 84},
+    {"title": "Pink Sheet最新レポート要約 — FDA政策の方向性を読み解く", "keyword": "Pink Sheet FDA 翻訳", "score": 82}
+  ]
+}
