@@ -9,11 +9,11 @@ BLOG_DESCRIPTION = (
     "FDAの承認プロセス・規制要件・ガイダンス文書を日本語でわかりやすく解説。"
     "海外の最新FDA動向を翻訳・要約し、日本の製薬企業・CROの実務担当者に向けた情報を毎日発信。"
 )
-BLOG_URL = "https://musclelove-777.github.io/fda-insight"
+BLOG_URL = "https://pharmaworkerka.github.io/fda-insight"
 BLOG_TAGLINE = "FDA規制の最新動向を日本語で発信"
 BLOG_LANGUAGE = "ja"
 
-GITHUB_REPO = "MuscleLove-777/fda-insight"
+GITHUB_REPO = "PharmaworkerKA/fda-insight"
 GITHUB_BRANCH = "gh-pages"
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 
