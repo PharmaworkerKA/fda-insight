@@ -132,7 +132,9 @@ def run(cfg=None, prm=None):
                 logger.error("記事生成が%d回失敗しました。終了します。", max_retries)
                 sys.exit(1)
             import time
-            time.sleep(5)
+            wait = 5 * (2 ** (attempt - 1))
+            logger.info("エクスポーネンシャルバックオフ: %d秒待機", wait)
+            time.sleep(wait)
 
     # ステップ2.5: アフィリエイトリンク挿入
     logger.info("ステップ2.5: アフィリエイトリンク挿入")
