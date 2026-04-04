@@ -11,6 +11,11 @@
 {% block twitter_title %}{{ article.title }}{% endblock %}
 {% block twitter_description %}{{ article.description | default(article.title) }}{% endblock %}
 
+{% if article.eyecatch_url %}
+<meta property="og:image" content="{{ article.eyecatch_url }}">
+<meta name="twitter:image" content="{{ article.eyecatch_url }}">
+{% endif %}
+
 {% block json_ld %}
 <script type="application/ld+json">
 {
@@ -42,11 +47,15 @@
         </nav>
 
         <article>
+            {% if article.eyecatch_url %}
+            <div class="article-hero" style="background: url('{{ article.eyecatch_url }}') center/cover no-repeat; height: 300px; border-radius: 12px; margin-bottom: 24px;"></div>
+            {% else %}
             {# ヒーロー画像（CSS生成・コスト0） #}
             <div class="article-hero" style="background: linear-gradient({{ article.hero_gradient | default('135deg') }}, var(--color-primary), var(--color-accent));">
                 <span class="article-hero-emoji">{{ article.hero_emoji | default('📝') }}</span>
                 <div class="article-hero-pattern"></div>
             </div>
+            {% endif %}
 
             <header class="article-header">
                 <h1 class="article-title">{{ article.title }}</h1>
