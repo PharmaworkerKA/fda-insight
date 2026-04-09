@@ -5,7 +5,7 @@
     <link>https://pharmaworkerka.github.io/fda-insight</link>
     <description>FDAの承認プロセス・規制要件・ガイダンス文書を日本語でわかりやすく解説。海外の最新FDA動向を翻訳・要約し、日本の製薬企業・CROの実務担当者に向けた情報を毎日発信。</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Apr 2026 05:16:49 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:15:22 +0900</lastBuildDate>
     <atom:link href="https://pharmaworkerka.github.io/fda-insight/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>「FDA承認」間近？Cytokinetics心臓病薬の医薬品開発と薬事承認戦略</title>
@@ -13,7 +13,7 @@
       <guid>https://pharmaworkerka.github.io/fda-insight/articles/fda-approval-cytokinetics-heart-drug-drug-development-regulatory-strategy.html</guid>
       <description></description>
       <category>FDA承認プロセス</category>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>FDA承認と新薬開発：Cytokinetics事例で学ぶ医薬品承認プロセス</title>
@@ -21,7 +21,7 @@
       <guid>https://pharmaworkerka.github.io/fda-insight/articles/fda-approval-new-drug-development-cytokinetics-process.html</guid>
       <description></description>
       <category>FDA承認プロセス</category>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>Cytokinetics社の心臓病薬、FDA承認プロセス解説！新薬申請と最新ニュース</title>
@@ -29,7 +29,7 @@
       <guid>https://pharmaworkerka.github.io/fda-insight/articles/cytokinetics-fda-approval-process-latest-news.html</guid>
       <description></description>
       <category>FDA承認プロセス</category>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>FDA承認：Cytokinetics心臓病薬とNDAプロセス全解説</title>
@@ -37,7 +37,7 @@
       <guid>https://pharmaworkerka.github.io/fda-insight/articles/fda-approval-cytokinetics-heart-drug-nda-process-guide.html</guid>
       <description></description>
       <category>FDA承認プロセス</category>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
     </item>
     <item>
       <title>FDAガイダンス：臨床試験の安全性報告と薬事申請</title>
@@ -45,7 +45,15 @@
       <guid>https://pharmaworkerka.github.io/fda-insight/articles/fda-guidance-clinical-trial-safety-reporting.html</guid>
       <description></description>
       <category>FDAガイダンス文書</category>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 +0900</pubDate>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+    <item>
+      <title>FDAガイダンスで学ぶ安全性報告と治験薬事申請の要点</title>
+      <link>https://pharmaworkerka.github.io/fda-insight/articles/fda-guidance-safety-reporting-clinical-trials-regulatory-submissions.html</link>
+      <guid>https://pharmaworkerka.github.io/fda-insight/articles/fda-guidance-safety-reporting-clinical-trials-regulatory-submissions.html</guid>
+      <description></description>
+      <category>FDAガイダンス文書</category>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0900</pubDate>
     </item>
   </channel>
 </rss>
