@@ -1,0 +1,105 @@
+{
+  "collected_at": "2026-04-18T05:10:14.785755",
+  "total_count": 9,
+  "topics": [
+    {
+      "title": "About PMDA",
+      "url": "https://www.pmda.go.jp/english/about-pmda/index.html",
+      "summary": "",
+      "published": "",
+      "source": "PMDA",
+      "score": 75,
+      "category": "PMDA vs FDA比較",
+      "blog_title": "【徹底比較】日本のPMDAと米国のFDA：医薬品規制の違いと申請戦略",
+      "keyword": "PMDA, FDA, 医薬品規制, 薬事申請, 日米比較"
+    },
+    {
+      "title": "New PRIME tools to accelerate development of medicines in the EU",
+      "url": "https://www.ema.europa.eu/en/news/new-prime-tools-accelerate-development-medicines-eu",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 75,
+      "category": "FDA承認プロセス",
+      "blog_title": "EUの医薬品開発加速化スキーム「PRIME」新ツール：FDA迅速承認プログラムとの比較と活用戦略",
+      "keyword": "EMA PRIME, 迅速承認, 医薬品開発, 薬事申請, FDAブレークスルーセラピー"
+    },
+    {
+      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 70,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EMAヒト用医薬品委員会の最新動向：2026年3月会議ハイライトと今後の承認トレンド",
+      "keyword": "EMA, CHMP, 医薬品承認, 規制会議, 薬事申請"
+    },
+    {
+      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7-10 April 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-april-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 65,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EMA薬事監視リスク評価委員会：2026年4月会議ハイライトと市販後規制トレンド",
+      "keyword": "EMA, ファーマコビジランス, 市販後安全, 医薬品規制, リスク評価"
+    },
+    {
+      "title": "EMA recommends restricting use of Tecovirimat SIGA",
+      "url": "https://www.ema.europa.eu/en/news/ema-recommends-restricting-use-tecovirimat-siga",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 65,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EMAが医薬品使用制限を推奨：規制当局の安全対策とFDAの動向",
+      "keyword": "EMA, 医薬品制限, 市販後規制, 安全性評価, 規制当局"
+    },
+    {
+      "title": "EMA consults on virtual control groups to help reduce animal use in medicines development",
+      "url": "https://www.ema.europa.eu/en/news/ema-consults-virtual-control-groups-help-reduce-animal-use-medicines-development",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 60,
+      "category": "薬事申請・GMP・データインテグリティ",
+      "blog_title": "EMAが仮想対照群で動物実験削減へ：FDA規制への示唆と開発効率化",
+      "keyword": "EMA, 仮想対照群, 動物実験代替, 医薬品開発, 規制動向"
+    },
+    {
+      "title": "Industry Shows Appetite For Speedier EU Approval Of Multinational Trials",
+      "url": "https://pink.citeline.com/pink-sheet/r-and-d/clinical-trials/industry-shows-appetite-for-speedier-eu-approval-of-multinational-trials-5RFJDK3IFFCIVOAR3XODHJZY5I/",
+      "summary": "",
+      "published": "",
+      "source": "Pink Sheet",
+      "score": 55,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EUの迅速承認トレンドから見るFDAの未来：多国籍治験の効率化",
+      "keyword": "EU承認, 迅速承認, 多国籍治験, FDA動向"
+    },
+    {
+      "title": "EMA recommends authorisation of first veterinary vaccine using RNA technology",
+      "url": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-first-veterinary-vaccine-using-rna-technology",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 50,
+      "category": "バイオ医薬品規制",
+      "blog_title": "EMAがRNA獣医用ワクチンを推奨：次世代バイオ医薬品規制の示唆",
+      "keyword": "EMA, RNAワクチン, 獣医薬, バイオ医薬品規制, 先端技術承認"
+    },
+    {
+      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 14-16 April 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-14-16-april-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 45,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EMA獣医薬委員会の最新動向：2026年4月会議ハイライト",
+      "keyword": "EMA, 獣医薬, 規制会議, 医薬品規制"
+    }
+  ]
+}
