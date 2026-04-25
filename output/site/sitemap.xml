@@ -139,6 +139,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pharmaworkerka.github.io/fda-insight/articles/pmda-fda-yakuji-shinsei-kisei-hikaku-jitsumu.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pharmaworkerka.github.io/fda-insight/category/FDA%E6%89%BF%E8%AA%8D%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9.html</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,6 +176,12 @@
   </url>
   <url>
     <loc>https://pharmaworkerka.github.io/fda-insight/category/%E3%83%90%E3%82%A4%E3%82%AA%E5%8C%BB%E8%96%AC%E5%93%81%E8%A6%8F%E5%88%B6.html</loc>
+    <lastmod>2026-04-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://pharmaworkerka.github.io/fda-insight/category/PMDA-vs-FDA%E6%AF%94%E8%BC%83.html</loc>
     <lastmod>2026-04-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
