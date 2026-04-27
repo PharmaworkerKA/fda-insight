@@ -1,0 +1,116 @@
+{
+  "collected_at": "2026-04-20T05:46:45.113378",
+  "total_count": 10,
+  "topics": [
+    {
+      "title": "New PRIME tools to accelerate development of medicines in the EU",
+      "url": "https://www.ema.europa.eu/en/news/new-prime-tools-accelerate-development-medicines-eu",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 85,
+      "category": "FDA承認プロセス",
+      "blog_title": "EUの医薬品開発加速化プログラム『PRIME』最新ツールとFDAのブレークスルー指定を徹底比較",
+      "keyword": "医薬品開発加速化, PRIME, FDAブレークスルーセラピー, 薬事申請戦略, EU規制"
+    },
+    {
+      "title": "EMA consults on virtual control groups to help reduce animal use in medicines development",
+      "url": "https://www.ema.europa.eu/en/news/ema-consults-virtual-control-groups-help-reduce-animal-use-medicines-development",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 75,
+      "category": "FDAガイダンス文書",
+      "blog_title": "医薬品開発におけるバーチャル対照群の活用：EMAの協議とFDAの動物実験代替への動向",
+      "keyword": "バーチャル対照群, 動物実験代替, 医薬品開発, EMA, FDAガイダンス"
+    },
+    {
+      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 75,
+      "category": "FDA承認プロセス",
+      "blog_title": "EUヒト用医薬品評価委員会（CHMP）最新ハイライト：FDA承認プロセスとの比較から学ぶ",
+      "keyword": "EMA, CHMP, 医薬品承認, 規制当局, FDA"
+    },
+    {
+      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7-10 April 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-april-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 70,
+      "category": "FDA最新ニュース",
+      "blog_title": "EU医薬品安全性評価（PRAC）最新ハイライト：FDAのファーマコビジランス戦略との比較",
+      "keyword": "ファーマコビジランス, 医薬品安全性, EMA, PRAC, FDA規制"
+    },
+    {
+      "title": "EMA recommends restricting use of Tecovirimat SIGA",
+      "url": "https://www.ema.europa.eu/en/news/ema-recommends-restricting-use-tecovirimat-siga",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 70,
+      "category": "FDA承認プロセス",
+      "blog_title": "特定の薬剤の使用制限、EMAの判断からFDAの医薬品リスク管理トレンドを読み解く",
+      "keyword": "医薬品規制, 市販後安全対策, EMA, FDA, リスク管理"
+    },
+    {
+      "title": "About PMDA",
+      "url": "https://www.pmda.go.jp/english/about-pmda/index.html",
+      "summary": "",
+      "published": "",
+      "source": "PMDA",
+      "score": 65,
+      "category": "PMDA vs FDA比較",
+      "blog_title": "【徹底比較】日本のPMDAと米国のFDA：薬事承認プロセスと特徴の違い",
+      "keyword": "PMDA, FDA, 薬事承認, 日本の規制, 米国の規制"
+    },
+    {
+      "title": "EMA recommends authorisation of first veterinary vaccine using RNA technology",
+      "url": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-first-veterinary-vaccine-using-rna-technology",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 60,
+      "category": "バイオ医薬品規制",
+      "blog_title": "RNA技術の獣医用ワクチンがEUで初承認へ：FDAの対応とバイオ医薬品規制の未来",
+      "keyword": "RNAワクチン, 動物用ワクチン, EMA承認, バイオ医薬品規制, FDA"
+    },
+    {
+      "title": "Industry Shows Appetite For Speedier EU Approval Of Multinational Trials",
+      "url": "https://pink.citeline.com/pink-sheet/r-and-d/clinical-trials/industry-shows-appetite-for-speedier-eu-approval-of-multinational-trials-5RFJDK3IFFCIVOAR3XODHJZY5I/",
+      "summary": "",
+      "published": "",
+      "source": "Pink Sheet",
+      "score": 50,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EUにおける国際共同治験承認迅速化の動き：FDAプロセスとの比較と日本の戦略",
+      "keyword": "EU承認迅速化, 国際共同治験, 医薬品規制, EMA, FDA"
+    },
+    {
+      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 14-16 April 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-14-16-april-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 45,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EU動物用医薬品規制の最新動向：FDAとの比較と今後の展望",
+      "keyword": "動物用医薬品, EU規制, EMA, CVMP, FDA比較"
+    },
+    {
+      "title": "EU recommendations for 2026/2027 seasonal flu vaccine composition",
+      "url": "https://www.ema.europa.eu/en/news/eu-recommendations-2026-2027-seasonal-flu-vaccine-composition",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 40,
+      "category": "海外トレンド翻訳",
+      "blog_title": "2026/2027年版インフルエンザワクチン組成：EU推奨とFDAの動向から見る国際基準",
+      "keyword": "インフルエンザワクチン, ワクチン組成, EU推奨, FDA, 公衆衛生"
+    }
+  ]
+}

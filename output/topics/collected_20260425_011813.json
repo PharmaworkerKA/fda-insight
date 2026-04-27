@@ -1,0 +1,116 @@
+{
+  "collected_at": "2026-04-25T01:18:13.964726",
+  "total_count": 10,
+  "topics": [
+    {
+      "title": "About PMDA",
+      "url": "https://www.pmda.go.jp/english/about-pmda/index.html",
+      "summary": "",
+      "published": "",
+      "source": "PMDA",
+      "score": 90,
+      "category": "PMDA vs FDA比較",
+      "blog_title": "【徹底比較】PMDAとFDA：日本の薬事申請とアメリカの違いを深掘り",
+      "keyword": "PMDA, FDA, 薬事申請, 規制比較, 日米"
+    },
+    {
+      "title": "EMA consults on virtual control groups to help reduce animal use in medicines development",
+      "url": "https://www.ema.europa.eu/en/news/ema-consults-virtual-control-groups-help-reduce-animal-use-medicines-development",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 78,
+      "category": "FDAガイダンス文書",
+      "blog_title": "【医薬品開発の未来】EMAが協議するバーチャル対照群：FDAの動物実験代替ガイダンスへの影響は？",
+      "keyword": "バーチャル対照群, 動物実験代替, 医薬品開発, EMA, FDAガイダンス, データサイエンス"
+    },
+    {
+      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 20-23 April 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-20-23-april-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 75,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EMAのCHMP会合速報：欧州の最新医薬品承認トレンドからFDAの動向を読み解く",
+      "keyword": "EMA, CHMP, 欧州医薬品, 承認トレンド, 薬事申請, 海外規制"
+    },
+    {
+      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 7-10 April 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-7-10-april-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 75,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EMA安全性評価委員会（PRAC）会合速報：医薬品の市販後安全対策におけるグローバルトレンド",
+      "keyword": "ファーマコビジランス, PRAC, EMA, 市販後調査, 医薬品規制, 安全性評価"
+    },
+    {
+      "title": "New medicine to reduce triglycerides in adults with familial chylomicronaemia syndrome",
+      "url": "https://www.ema.europa.eu/en/news/new-medicine-reduce-triglycerides-adults-familial-chylomicronaemia-syndrome",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 70,
+      "category": "海外トレンド翻訳",
+      "blog_title": "欧州で承認勧告された新薬事例：トリグリセリド治療薬から見るFDA承認への道筋",
+      "keyword": "新薬承認, トリグリセリド, 医薬品開発, 欧州, FDA申請"
+    },
+    {
+      "title": "EMA recommends authorisation of first veterinary vaccine using RNA technology",
+      "url": "https://www.ema.europa.eu/en/news/ema-recommends-authorisation-first-veterinary-vaccine-using-rna-technology",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 70,
+      "category": "バイオ医薬品規制",
+      "blog_title": "【RNA技術】初の獣医用ワクチン承認勧告：ヒト用バイオ医薬品規制への示唆とFDAの動向",
+      "keyword": "RNAワクチン, バイオ医薬品, 獣医用, EMA, FDA規制, 最新技術"
+    },
+    {
+      "title": "EU recommendations for 2026/2027 seasonal flu vaccine composition",
+      "url": "https://www.ema.europa.eu/en/news/eu-recommendations-2026-2027-seasonal-flu-vaccine-composition",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 70,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EUの季節性インフルエンザワクチン推奨：FDAのワクチン承認プロセスとの比較と課題",
+      "keyword": "インフルエンザワクチン, EU規制, FDA承認プロセス, ワクチン組成, 海外トレンド"
+    },
+    {
+      "title": "New treatment for relapsed extensive-stage small cell lung cancer",
+      "url": "https://www.ema.europa.eu/en/news/new-treatment-relapsed-extensive-stage-small-cell-lung-cancer",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 70,
+      "category": "海外トレンド翻訳",
+      "blog_title": "欧州で承認勧告された小細胞肺癌治療薬：難病新薬開発におけるFDA申請戦略とは？",
+      "keyword": "新薬承認, 小細胞肺癌, 医薬品開発, 欧州, FDA申請"
+    },
+    {
+      "title": "Iran War Exposes Weaknesses In Pharma Resilience Planning",
+      "url": "https://pink.citeline.com/pink-sheet/policy-regulation/iran-war-exposes-weaknesses-in-pharma-resilience-planning-4GE6OKSHV5B5HMEKPKYW4XMW4U/",
+      "summary": "",
+      "published": "",
+      "source": "Pink Sheet",
+      "score": 50,
+      "category": "海外トレンド翻訳",
+      "blog_title": "イラン戦争が示唆する医薬品サプライチェーンの脆弱性：FDA規制への影響とレジリエンス強化の課題",
+      "keyword": "医薬品サプライチェーン, レジリエンス, FDA規制, 有事, 海外トレンド"
+    },
+    {
+      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 14-16 April 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-14-16-april-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 45,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EMA獣医用医薬品委員会（CVMP）ハイライト：動物用医薬品規制の最新動向と将来",
+      "keyword": "獣医用医薬品, CVMP, EMA, 動物薬規制, 海外トレンド"
+    }
+  ]
+}

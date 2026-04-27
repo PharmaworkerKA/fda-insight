@@ -1,0 +1,149 @@
+{
+  "collected_at": "2026-04-06T05:29:00.986080",
+  "total_count": 13,
+  "topics": [
+    {
+      "title": "Recon: FDA approves Cytokinetics’ heart drug in first for drugmaker; Shionogi forges $2.5 billion buyout of Tanabe Pharma’s ALS ...",
+      "url": "https://raps-uat.pixl8-us.cloud/resource/recon-fda-approves-cytokinetics-heart-drug-in-first-for-drugmaker-shionogi-forges-25-billion-buyout-of-tanabe-pharmas-als-therapy-radicava.html",
+      "summary": "<p>Welcome to Regulatory Reconnaissance, your regulatory news and intelligence briefing.</p><br /><br /><span style=\"font-size: 12px; color: gray;\">(Feed generated with <a href=\"https://fetchrss.com/feedLink?w=69b82e02d1e32ba3280155a3\" target=\"_blank\">FetchRSS</a>)</span>",
+      "published": "Mon, 22 Dec 2025 00:00:00 +0000",
+      "source": "RAPS",
+      "score": 95,
+      "category": "FDA承認プロセス",
+      "blog_title": "【速報】FDA、Cytokineticsの心臓病薬を承認！新薬承認プロセスの注目点",
+      "keyword": "FDA承認, 新薬, 心臓病薬, 承認プロセス, Cytokinetics"
+    },
+    {
+      "title": "FDA posts warning letters to manufacturers of breast binders",
+      "url": "https://raps-uat.pixl8-us.cloud/resource/fda-posts-warning-letters-to-manufacturers-of-breast-binders.html",
+      "summary": "<p>The US Food and Drug Administration (FDA) on Thursday issued warning letters to 12 manufacturers and retailers for illegally marketing breast binders to children for gender-affirming surgery. The warning letters focus on companies’ failure to register their devices, which are now considered Class",
+      "published": "Fri, 19 Dec 2025 00:00:00 +0000",
+      "source": "RAPS",
+      "score": 90,
+      "category": "Warning Letter分析",
+      "blog_title": "FDA Warning Letter分析：乳房バインダー製造業者への警告から学ぶ規制遵守の重要性",
+      "keyword": "FDA Warning Letter, 警告書, 規制遵守, 医療機器, FDA"
+    },
+    {
+      "title": "US FDA Commissioner Makary’s ‘Bold’ Year 1 Reforms Clouded By Staff Churn, Process Issues",
+      "url": "https://pink.citeline.com/pink-sheet/agency-leadership/us-fda/us-fda-commissioner-makarys-bold-year-1-reforms-clouded-by-staff-churn-process-issues-BM6PHO3AWNBWXHL5UAJI4YE7TQ/",
+      "summary": "",
+      "published": "",
+      "source": "Pink Sheet",
+      "score": 90,
+      "category": "FDA最新ニュース",
+      "blog_title": "FDAコミッショナーの改革はどこへ？内部問題を抱えるFDAの現状と未来",
+      "keyword": "FDAコミッショナー, 組織改革, 規制プロセス, FDA問題, リーダーシップ"
+    },
+    {
+      "title": "This Week: FDA staff raise alarm over CNVP, no COVID-19 vaccine boxed warning, and more",
+      "url": "https://raps-uat.pixl8-us.cloud/resource/this-week-fda-staff-raise-alarm-over-cnvp-no-covid-19-vaccine-boxed-warning-and-more.html",
+      "summary": "<p>Welcome to another installment of This Week at FDA, your weekly source for updates—big and small—on FDA, drug, and medical device regulation and what we’re reading from around the web. This week, FDA staffers raised concerns about the potential politicization of the commissioner’s new drug vouche",
+      "published": "Fri, 19 Dec 2025 00:00:00 +0000",
+      "source": "RAPS",
+      "score": 85,
+      "category": "FDAガイダンス文書",
+      "blog_title": "FDAスタッフが懸念表明：COVID-19ワクチン添付文書の最新動向とFDAの視点",
+      "keyword": "FDA, COVID-19ワクチン, ボックス警告, 規制動向, 添付文書"
+    },
+    {
+      "title": "EU Commission proposes major reforms to MDR",
+      "url": "https://raps-uat.pixl8-us.cloud/resource/eu-commission-proposes-major-reforms-to-mdr.html",
+      "summary": "<p>The European Commission has proposed targeted reforms aimed at simplifying rules for medical devices. The proposed reforms are part of a package of measures put forth by the Commission this week to advance the biotechnology sector, enhance access to cardiovascular treatments, and streamline medic",
+      "published": "Thu, 18 Dec 2025 00:00:00 +0000",
+      "source": "RAPS",
+      "score": 75,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EU MDR大改革案が発表！医療機器メーカーが知るべき今後の規制トレンド",
+      "keyword": "EU MDR, 医療機器規制, 薬事申請, EU委員会, 規制改革"
+    },
+    {
+      "title": "New PRIME tools to accelerate development of medicines in the EU",
+      "url": "https://www.ema.europa.eu/en/news/new-prime-tools-accelerate-development-medicines-eu",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 75,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EUの医薬品開発を加速する新PRIMEツールとは？迅速な市場投入への道",
+      "keyword": "EMA PRIME, 医薬品開発, EU薬事申請, 迅速審査, 欧州規制"
+    },
+    {
+      "title": "About PMDA",
+      "url": "https://www.pmda.go.jp/english/about-pmda/index.html",
+      "summary": "",
+      "published": "",
+      "source": "PMDA",
+      "score": 70,
+      "category": "PMDA vs FDA比較",
+      "blog_title": "PMDAとは？日本の医薬品規制機関の役割とFDAとの違いを徹底解説",
+      "keyword": "PMDA, 医薬品規制, 日本の薬事申請, FDA比較, 規制当局"
+    },
+    {
+      "title": "EMA consults on virtual control groups to help reduce animal use in medicines development",
+      "url": "https://www.ema.europa.eu/en/news/ema-consults-virtual-control-groups-help-reduce-animal-use-medicines-development",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 70,
+      "category": "海外トレンド翻訳",
+      "blog_title": "動物実験削減へ：EMAが「仮想対照群」導入を検討する背景と影響",
+      "keyword": "EMA, 動物実験代替, 仮想対照群, 医薬品開発, 規制動向"
+    },
+    {
+      "title": "EMA recommends restricting use of Tecovirimat SIGA",
+      "url": "https://www.ema.europa.eu/en/news/ema-recommends-restricting-use-tecovirimat-siga",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 65,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EMA、Tecovirimat SIGAの使用制限を勧告：医薬品安全性評価の重要性",
+      "keyword": "EMA, 医薬品規制, 安全性評価, 規制勧告, Tecovirimat"
+    },
+    {
+      "title": "Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 9 - 12 March 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-9-12-march-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 65,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EMA PRAC会議ハイライト：最新の医薬品安全性監視トレンドを読み解く",
+      "keyword": "EMA PRAC, ファーマコビジランス, 医薬品安全性, 規制動向, 欧州規制"
+    },
+    {
+      "title": "Asia-Pacific Roundup: Australia’s TGA seeks feedback on planned changes to medicine labels",
+      "url": "https://raps-uat.pixl8-us.cloud/resource/asia-pacific-roundup-australias-tga-seeks-feedback-on-planned-changes-to-medicine-labels.html",
+      "summary": "<p>Currently, the standards TGO 91 and TGO 92 establish the rules for the information that companies must include on the labels of prescription and over-the-counter (OTC) medicines, respectively. The TGA stated that the existing standards have helped make important information easier to find on medi",
+      "published": "Mon, 22 Dec 2025 00:00:00 +0000",
+      "source": "RAPS",
+      "score": 50,
+      "category": "海外トレンド翻訳",
+      "blog_title": "オーストラリアTGAの医薬品ラベル変更案から読み解く、グローバル規制トレンド",
+      "keyword": "TGA, 医薬品ラベル, 規制変更, オーストラリア"
+    },
+    {
+      "title": "Meeting highlights from the Committee for Medicinal Products for Human Use (CHMP) 23-26 March 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-medicinal-products-human-use-chmp-23-26-march-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 45,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EU CHMP会議ハイライト：欧州における医薬品承認動向の最新情報",
+      "keyword": "EMA, CHMP, 医薬品承認, 欧州規制, 医薬品開発"
+    },
+    {
+      "title": "Meeting highlights from the Committee for Veterinary Medicinal Products (CVMP) 10-12 March 2026",
+      "url": "https://www.ema.europa.eu/en/news/meeting-highlights-committee-veterinary-medicinal-products-cvmp-10-12-march-2026",
+      "summary": "",
+      "published": "",
+      "source": "EMA News",
+      "score": 40,
+      "category": "海外トレンド翻訳",
+      "blog_title": "EMA CVMP会議ハイライト：獣医薬品規制の最新動向を読み解く",
+      "keyword": "EMA, CVMP, 獣医薬品, 規制動向, 欧州規制"
+    }
+  ]
+}
